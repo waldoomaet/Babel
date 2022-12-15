@@ -1,0 +1,7 @@
+1:Alimentar la shield con una fuente externa maximo 1A y 9V.(MIRAR IMAGEN DE CONEXIONES)
+2:Verificar que los jumpers que estan cerca a la antena esten colocados con D7 y D8(MIRAR IMAGEN JUMPERS-TARJETA)
+2:Colocar una comunicación de 19200 bits en el monitor serial, sino saldran figuras extrañas. 
+3: En la parte del codigo que esta: 94xxxxxx9 ustedes deben colocar su número a llamar en vez de eso.
+4:la palabra OK demorara de 25 a 30 segundos en aparecer.
+5:por dato deben saber que esta shield solo funciona correctamente con chips de 2G o 3G. 
+6:Si desean usar con un Arduino Mega coloquen en vez de 7 y 8, pongan 10 y 11.
